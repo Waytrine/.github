@@ -8,7 +8,7 @@
 
 **Fine-tuned small models that make agent systems convenient, fast and cheap to run.**
 
-**[wyt.si](https://wyt.si)** · **[PugPort](https://pugport.com)**, the production use case · **[yutong.wiki](https://yutong.wiki)**, the author
+**[wyt.si](https://wyt.si)** · **[Hugging Face](https://huggingface.co/Waytrine)** · **[PugPort](https://pugport.com)**, the production use case · **[yutong.wiki](https://yutong.wiki)**, the author
 
 ## Projects
 
@@ -18,4 +18,4 @@ A classifier and inference API that answers ten routing questions about a reques
 
 **72.0% → 91.0%** on sealed real requests (v4 → v5) · **322M** parameters · **37 ms** median latency
 
-[Case study](https://wyt.si/task-router/) · [API reference](https://wyt.si/task-router/api/) · [Model card](https://github.com/Waytrine/task-router/blob/main/MODEL_CARD.md)
+[Model weights on Hugging Face](https://huggingface.co/Waytrine/task-router) · [Case study](https://wyt.si/task-router/) · [API reference](https://wyt.si/task-router/api/) · [Model card](https://github.com/Waytrine/task-router/blob/main/MODEL_CARD.md)
